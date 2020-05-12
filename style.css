@@ -4,9 +4,33 @@ h1 {
 }
 .thumbnail {
   display: flex;
+}
+
+.questions {
+  font-size:  80px;
+}
+
+.textPics{
+  font-size: 80px;
 
 }
 
+.vdText{
+  font-size: 35px;
+  background-image: url("water_b.jpg");
+}
+
+.bkColor{
+  background-color: #C2AFF0;
+}
 .pics {
-  align-content: stretch;
+  width: 100%;
+  height: auto;
+}
+
+.backGNDimg {
+  background-image: url("water_1.jpg");
+}
+.links {
+  font-size: 80px;
 }
