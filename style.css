@@ -23,9 +23,26 @@ h1 {
 .bkColor{
   background-color: #C2AFF0;
 }
+
+.frstVideo{
+  display: flex;
+  align-content: flex-start;
+}
+
+.sndVideo{
+  display: flex;
+  align-content: flex-end;
+}
 .pics {
+  display: flex;
+  flex-wrap: wrap;
+  align-items:flex-start;
   width: 100%;
   height: auto;
+}
+
+.picsEnd{
+  align-self: flex-end;
 }
 
 .backGNDimg {
